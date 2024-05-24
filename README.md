@@ -30,5 +30,5 @@ See src/iife.py for possible variables to adjust in the function arguments. <b>F
 <b>iife.py</b>: The main backbone of the IIFE algorithm which iteratively constructs new features.
 
 <b>knnmci.py</b>: This is the component of IIFE that finds the conditional mutual information as part of the calculation of interaction information. This was copied from the open-source GitHub directory at https://github.com/omesner/knncmi. 
-This code was NOT written by us, the authors of the IIFE paper, but was used in the IIFE algorithm. 
+This code was NOT written by us but was used in the IIFE algorithm. 
 We copy the code here because the pip install for knncmi no longer works as it is not maintained by the previous authors.
